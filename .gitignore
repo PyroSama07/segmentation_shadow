@@ -3,3 +3,5 @@
 SBU-shadow/
 .ipynb_checkpoints/
 __MACOSX/
+*.npy
+*.hdf5
