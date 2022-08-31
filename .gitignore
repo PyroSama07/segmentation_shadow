@@ -5,3 +5,4 @@ SBU-shadow/
 __MACOSX/
 *.npy
 *.hdf5
+Pipfile
