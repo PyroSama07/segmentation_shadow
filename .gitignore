@@ -6,3 +6,5 @@ __MACOSX/
 *.npy
 *.hdf5
 Pipfile
+logs/
+__pycache__/
